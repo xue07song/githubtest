@@ -20,3 +20,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+#try to run the server
+#python manage.py runserver
+#then go to http://localhost:8000/
