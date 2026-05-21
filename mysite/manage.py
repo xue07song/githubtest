@@ -23,3 +23,10 @@ if __name__ == '__main__':
 #try to run the server
 #python manage.py runserver
 #then go to http://localhost:8000/
+#you should see the django welcome page
+#then try to access the admin page
+#http://localhost:8000/admin/
+#you should be redirected to the login page
+#then login with the default credentials
+#username: admin
+#password: admin
